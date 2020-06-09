@@ -1,0 +1,157 @@
+body{
+    margin: 0px;
+    text-align: center;
+    display: inline;
+}
+.skills{
+    text-align: left;
+    padding: 50px;
+}
+h1{
+    display: inline;
+    position: relative;
+    color: #5f95ec;
+    font-size: 90px;
+    font-family: 'Merienda One', cursive;
+}
+h2{
+    color: #5f95ec;
+
+    font-size: 70px;
+        font-family: 'Merienda One', cursive;
+}
+h3{
+    color: #5f95ec;
+
+    font-size: 50px;
+    font-family: 'Merienda', cursive;
+
+}
+p{
+    margin-bottom: 0px;
+    font-size: 30px;
+    font-family:  sans-serif;
+    color: rgb(7, 138, 138);
+    line-height: 2;
+}
+hr{
+    margin-top: 30px;
+    width: 20%;
+    border-style: none;
+    border-top-style:dotted ;
+    border-color: rgba(8, 63, 80, 0.349);
+    border-width: 20px;
+    height: 0px;
+}
+.top{
+    background-color: #93f5db;
+    height: 800px;
+    width: 100%;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.middle-container{
+    width: 70%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: auto;
+
+}
+.bottom-container{
+    background-color: #43f5c8;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.pro{
+    text-decoration: underline;
+}
+a{
+    font-family: sans-serif;
+    color: rgb(9, 93, 93);
+    margin: 10px;
+    text-decoration: none;
+}
+.profile-img{
+    padding: 20px;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+.skill1{
+    width: 250px;
+    float: left;
+    margin-right: 50px;
+}
+.skill2{
+    width: 250px;
+    float: right;
+}
+.profile{
+    width: 60% ;
+    margin: auto;
+}
+.img1{
+    margin: auto;
+    width: 200px;
+    float: left;
+}
+.img2{
+    width: 200px;
+    float: right;
+}
+.classname {
+	-moz-box-shadow: -5px 12px 26px -5px #276873;
+	-webkit-box-shadow: -5px 12px 26px -5px #276873;
+	box-shadow: -5px 12px 26px -5px #276873;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #599bb3), color-stop(1, #408c99) );
+	background:-moz-linear-gradient( center top, #599bb3 5%, #408c99 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#408c99');
+	background-color:#599bb3;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	-moz-border-radius-topright:20px;
+	border-top-right-radius:20px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:20px;
+	-moz-border-radius-bottomleft:20px;
+	border-bottom-left-radius:20px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	font-style:normal;
+height:34px;
+	line-height:34px;
+width:134px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 0px 0px #37f5c5;
+}.classname:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #408c99), color-stop(1, #37f5c5) );
+	background:-moz-linear-gradient( center top, #408c99 5%, #599bb3 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#408c99', endColorstr='#599bb3');
+	background-color:#408c99;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
+.pLast{
+    line-height: 1;
+
+}
+a:hover{
+    color: white;
+}
+.pLast{
+    color: white;
+}
